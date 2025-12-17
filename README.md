@@ -1,6 +1,6 @@
 # 📊 Aplicativo de Organização de Finanças Pessoais Conversacional
 
-Este repositório contém o projeto desenvolvido para o desafio da DIO, com base em um **PRD (Product Requirements Document)** que descreve um aplicativo de finanças pessoais com interação via conversa.
+Este repositório foi criado para o desafio da DIO e contém o projeto de um **App de Finanças Pessoais Conversacional**, desenvolvido a partir de interações com a IA para estruturar um PRD (Product Requirements Document).
 
 ---
 
@@ -41,8 +41,9 @@ A proposta é substituir formulários e planilhas por uma experiência de conver
 
 ---
 
-## 🖼️ Prints ou Vídeos
-*(Você deve adicionar aqui os prints ou pequenos vídeos das interações com a IA, conforme solicitado pela DIO.)*
+## 🖼️ Prints do Projeto
+![Descrição da imagem](Captura%20de%20tela%202025-12-17%20140659.png)
+
 
 ---
 
@@ -54,34 +55,38 @@ O **App de Finanças Pessoais Conversacional** ajuda usuários a:
 - Acompanhar investimentos por categoria.  
 - Receber dicas de economia do Agente Financeiro.  
 - Visualizar relatórios simples e personalizados em um dashboard intuitivo.  
+- Garantir segurança com autenticação por email e senha.  
+
+Resultado final no Lovable: https://mellow-money-chat.lovable.app
 
 ---
 
 ## 💡 Reflexão sobre o Processo
 
 **O que funcionou bem?**  
-- A estruturação do PRD com clareza e linguagem acessível.  
+- A estruturação clara do PRD com apoio da IA.  
 - A definição das funcionalidades principais e complementares.  
-- A interação com a IA para detalhar e expandir ideias.  
+- A interação iterativa com a IA para expandir e refinar ideias.  
 
 **O que não funcionou como o esperado?**  
-- Algumas respostas iniciais da IA foram muito genéricas e precisaram de refinamento.  
-- Foi necessário ajustar o PRD para incluir funcionalidades adicionais como autenticação e dashboard.  
+- Algumas respostas iniciais foram genéricas e precisaram de ajustes.  
+- Foi necessário complementar o PRD com funcionalidades adicionais como autenticação e dashboard.  
 
 **O que aprendi sobre conversar com IAs?**  
-- É importante fornecer contexto claro e detalhado para obter respostas úteis.  
-- A IA ajuda a organizar ideias e estruturar documentos complexos de forma rápida.  
-- O processo é iterativo: quanto mais feedback e ajustes, mais próximo do resultado desejado.  
+- É essencial fornecer contexto detalhado para obter respostas úteis.  
+- A IA ajuda a organizar ideias e estruturar documentos complexos rapidamente.  
+- O processo é colaborativo e iterativo: quanto mais feedback, mais próximo do resultado desejado.  
 
 ---
 
 ## 📂 Estrutura do Repositório
 - `README.md` → Documento principal com PRD, resumo e reflexões.  
 - `prints/` → Pasta para armazenar prints das interações.  
-- `videos/` → Pasta para pequenos vídeos demonstrativos.  
-- `docs/` → Documentação complementar (se necessário).  
+
+
+
 
 ---
 
 ## 🏆 Conclusão
-Este projeto mostra como é possível transformar uma ideia em um **PRD estruturado** e evoluir para um MVP de aplicativo de finanças pessoais, utilizando a IA como parceira no processo criativo e organizacional.
+Este projeto mostra como transformar uma ideia em um **PRD estruturado** e evoluir para um MVP de aplicativo de finanças pessoais, utilizando a IA como parceira no processo criativo e organizacional.
